@@ -1,0 +1,19 @@
+.kontakt-info {
+    position: relative;
+    top: 100px;
+    left: 40px;
+
+}
+
+.kontakt-info h2 {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+   
+}
+
+
+.kontakt-info p {
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-top: 30px;
+}

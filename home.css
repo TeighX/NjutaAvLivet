@@ -1,0 +1,64 @@
+.intro {
+    margin-left: 70px;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    margin-top: 60px;
+}
+.intro2 h3 {
+    margin-left: 70px;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    margin-top: 60px;
+}
+.intro2 p{
+    margin-left: 70px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.image-container {
+    display: flex;
+  }
+  
+  .Elderly1,
+  .Elderly2 {
+    width: 48%;
+    height: auto;
+    margin: 20px;
+  }
+  
+
+.info {
+    background-color: #28282A;
+    padding: 60px;
+    margin-top: 60px;
+    
+}
+.info h3 {
+   color:white; 
+   font-size: 60px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: 400;
+   margin-bottom: 40px;
+}
+.info p {
+  color: white;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400;
+  margin-bottom: 50px;
+
+}
+
+.btn1 {
+    background-color: white;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    color: black;
+}

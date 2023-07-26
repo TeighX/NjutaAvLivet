@@ -1,0 +1,96 @@
+.contact-form-container {
+    position: relative;
+    left: 1000px;
+    margin-bottom: 250px;
+    top: -220px;
+}
+
+#name {
+    position: relative;
+    right: 117px;
+    height: 47px;
+    width: 300px;
+}
+#lastName {
+    position: relative;
+    right: 100px;
+    height: 47px;
+    width: 300px;
+    
+}
+
+#email{
+    position: relative;
+    top: 35px;
+    right: 116px;
+    width: 616px;
+    height: 47px;
+}
+
+.names h4 {
+    position: relative;
+    right: 118px;
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+
+.name1 {
+    position: relative;
+    right: 116px;
+}
+
+.lastName1 {
+    position: relative;
+    left: 136px;
+}
+
+.email1 {
+    position: relative;
+    top: 25px;
+    right: 116px;
+}
+#phonenumber {
+    position: relative;
+    top: 90px;
+    right: 240px;
+    width: 616px;
+    height: 47px;
+}
+.subject1 {
+    position: relative;
+    top: 45px;
+    right: 116px;
+}
+#message {
+    position: relative;
+    top: 155px;
+    right: 278px;
+    width: 616px;
+    height: 120px;
+}
+.message1 {
+    position: relative;
+    top: 70px;
+    right: 115px;
+}
+
+
+.button-container {
+position: relative;
+right: 115px;
+top: 170px;
+}
+.button-container button {
+position: relative;
+width: 130px;
+height: 70px;
+background-color: black;
+color: white;
+font-size: 18px;
+font-weight: 600;
+}
+
+input{
+    background-color: rgb(250,250,250);
+}
